@@ -1,0 +1,24 @@
+# CMake build trees
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+build.ninja
+*.ninja
+
+# IDE configuration
+.idea/
+.compiler-temp/
+
+# Compiled binaries and intermediate files
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.lib
+*.dll
+
+# Local runtime data
+chat_users.txt
+
